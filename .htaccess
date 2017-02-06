@@ -1,0 +1,2 @@
+# User might have forgot to enable overriding .htaccess support
+IndexIgnore *
