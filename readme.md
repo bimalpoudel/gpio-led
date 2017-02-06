@@ -19,3 +19,6 @@ Demonstration of common anode LED that produces Red, Green, Blue, Cyan, Magenta,
  - AngularJS
  - W3CSS
  - AdditiveColor image (from WikiPedia) - https://en.wikipedia.org/wiki/RGB_color_model
+
+# Screen
+ ![Screen shot](/screen.png)
